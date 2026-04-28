@@ -108,9 +108,8 @@ Focused on high-signal variables:
 
 ## Sample Output
 
-Actual vs Predicted Prices.png
+<img width="652" height="449" alt="image" src="https://github.com/user-attachments/assets/b9c77939-e19d-4b97-a27d-ce3a5c91755f" />
 
----
 
 ## How to Run
 
